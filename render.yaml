@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: 𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎_𝐓𝐄𝐂𝐇-𝐏𝐀𝐈𝐑
+    name: LORD-OBITO-TECH-pair-site
     env: docker
     plan: free
     branch: main

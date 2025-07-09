@@ -13,7 +13,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    async function LORD_OBITO_TECH_PAIR_CODE() {
+    async function GIFTED_MD_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -77,11 +77,11 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "LORD~OBITO~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hello there ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒︎ User! 👋🏻* 
+                        let desc = `*Hello there ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒ User! 👋🏻* 
 
 > Do not share your session id with your gf 😂.
 
- *Thanks for using ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒︎* 
+ *Thanks for using ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒* 
 
 > Join WhatsApp Channel :- ⤵️
  
@@ -91,12 +91,12 @@ Dont forget to fork the repo ⬇️
 
 https://github.com/LORD-OBITO-DEV/LORD_OBITO-MD
 
-> *© POWERED BY ✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝘿𝙀𝙑 ✞*`; 
+> *© Powered BY ✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝙏𝙀𝘾𝙃 ✞︎*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒︎ ",
+title: "✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝘿𝙀𝙑 ✞",
 thumbnailUrl: "https://files.catbox.moe/94neyf.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26",
 mediaType: 1,
@@ -107,12 +107,12 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*Don't Share with anyone this code use for deploy ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒*\n\n ◦ *Github:* https://github.com/LORD-OBITO-DEV/LORD_OBITO-MD`;
+                            let desc = `*Don't Share with anyone this code use for deploy LORD_OBITO-MD*\n\n ◦ *Github:* https://github.com/LORD-OBITO-DEV/LORD_OBITO-MD`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒",
+title: "✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝙏𝙀𝘾𝙃 ✞",
 thumbnailUrl: "https://files.catbox.moe/94neyf.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26",
 mediaType: 2,
@@ -131,7 +131,7 @@ showAdAttribution: true
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    LORD_OBITO_TECH_PAIR_CODE();
+                    GIFTED_MD_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -142,7 +142,7 @@ showAdAttribution: true
             }
         }
     }
-   return await LORD_OBITO_TECH_PAIR_CODE();
+   return await GIFTED_MD_PAIR_CODE();
 });/*
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
