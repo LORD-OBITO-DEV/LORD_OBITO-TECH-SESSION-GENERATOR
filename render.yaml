@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: 𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎_𝐓𝐄𝐂𝐇-𝐏𝐀𝐈𝐑
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/LORD-OBITO-DEV/LORD_OBITO-MD
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
