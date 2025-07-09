@@ -1,4 +1,4 @@
-# 🚀 LORD_OBITO-TECH-SESSION-GENERATOR
+# 🚀 LORD_OBITO-TECH SESSION-GENERATOR
 
 ## 📊 Visitor Counter
 
