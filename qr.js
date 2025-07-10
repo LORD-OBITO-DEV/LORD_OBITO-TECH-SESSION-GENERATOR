@@ -97,7 +97,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝘿𝙀𝙑 ✞",
-thumbnailUrl: "https://files.catbox.moe/94neyf.jpg",
+thumbnailUrl: "https://files.catbox.moe/c55gdc.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -113,7 +113,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝘿𝙀𝙑 ✞",
-thumbnailUrl: "https://files.catbox.moe/94neyf.jpg",
+thumbnailUrl: "https://files.catbox.moe/c55gdc.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26",
 mediaType: 2,
 renderLargerThumbnail: true,
