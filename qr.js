@@ -77,11 +77,11 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "LORD~OBITO~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hello there ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒︎ User! 👋🏻* 
+                        let desc = `*Hello there ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐗𝐌𝐃-𝐕2༒︎ User! 👋🏻* 
 
 > Do not share your session id with your gf .
 
- Thanks for using ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒ 
+ Thanks for using ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐗𝐌𝐃-𝐕2༒ 
 
 > Join WhatsApp Channel :- ⤵️
  
@@ -89,7 +89,7 @@ https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26
 
 Dont forget to fork the repo ⬇️
 
-https://github.com/LORD-OBITO-DEV/LORD_OBITO-MD 
+https://github.com/LORD-OBITO-DEV/LORD_OBITO-XMD-V2
 
 > *© Powered BY ✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝙏𝙀𝘾𝙃 ✞*`; 
                         await sock.sendMessage(sock.user.id, {
@@ -97,7 +97,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝘿𝙀𝙑 ✞",
-thumbnailUrl: "https://files.catbox.moe/c55gdc.jpg",
+thumbnailUrl: "https://files.catbox.moe/d7fqrl.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -107,13 +107,13 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*Don't Share with anyone this code use for deploy ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐌𝐃༒*\n\n ◦ *Github:* https://github.com/LORD-OBITO-DEV/LORD_OBITO-MD`;
+                            let desc = `*Don't Share with anyone this code use for deploy ༒︎𝐋𝐎𝐑𝐃_𝐎𝐁𝐈𝐓𝐎-𝐗𝐌𝐃-𝐕2༒*\n\n ◦ *Github:* https://github.com/LORD-OBITO-DEV/LORD_OBITO-XMD-V2`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
 title: "✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝘿𝙀𝙑 ✞",
-thumbnailUrl: "https://files.catbox.moe/c55gdc.jpg",
+thumbnailUrl: "https://files.catbox.moe/d7fqrl.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26",
 mediaType: 2,
 renderLargerThumbnail: true,

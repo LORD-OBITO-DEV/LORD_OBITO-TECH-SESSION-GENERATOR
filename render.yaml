@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: LORD-OBITO-TECH-pair-site
+    name: LORD-OBITO-TECH-SESSION-GENERATOR1
     env: docker
     plan: free
     branch: main
-    repo: https://github.com/LORD-OBITO-DEV/LORD_OBITO-MD
+    repo: https://github.com/LORD-OBITO-DEV/LORD_OBITO-XMD-V2
     dockerfilePath: ./Dockerfile
     autoDeploy: true
