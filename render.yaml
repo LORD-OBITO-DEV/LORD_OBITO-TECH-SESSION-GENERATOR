@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: LORD-OBITO-XMD-SESSION-GENERATOR
+    name: LORD_OBITO-TECH-SESSION-GENERATOR
     env: docker
     plan: free
     branch: main
-    repo: 
+    repo: https://github.com/LORD-OBITO-DEV/LORD_OBITO-XMD-V2
     dockerfilePath: ./Dockerfile
     autoDeploy: true
