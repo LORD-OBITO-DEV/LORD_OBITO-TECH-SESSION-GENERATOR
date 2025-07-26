@@ -15,7 +15,7 @@
   "author": "GlobalTechInfo",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+    "@whiskeysockets/baileys": "github:LORD-OBITO-DEV/lordobitodev-baileys",
     "qrcode": "^1.5.4",
     "awesome-phonenumber": "7.2.0",
     "pino": "9.5.0",
